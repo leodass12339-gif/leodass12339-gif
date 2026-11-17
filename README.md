@@ -5,6 +5,7 @@
 
 🔭 I am  currently working on developing our own website.<br><br>👯 We're looking to collaborate on exciting web development projects.<br><br>🤝 I am  looking to improve our website development and coding skills.<br><br>🌱 I am currently learning web development and exploring new technologies.<br><br>💬 Ask us about our website project and web development.<br><br>⚡ Fun fact: We're a team of passionate learners building our own website from scratch!<br><br> ## 🎓 Education<br><br>🏫 College: Anuvartik Mirji Bhartesh Engineering<br><br>💻 Course: Computer Science and Engineering (CSE)<br><br>📚 Year: 2nd Year in Engineering  <br><br>🌱 Currently learning programming, data structures, and web development while building my own website.
 
+ 🔄 Checking my alternate GitHub account.  https://github.com/SHASHANKHIREMTH
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_shashank._.__?xtok=dTlubXFxZ3ZidGsy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leodass12339@gmail.com) 
